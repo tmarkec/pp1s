@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    font-size: 25px;
+    color:darkcyan;
+    text-align:center;
+}
