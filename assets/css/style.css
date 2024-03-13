@@ -5,7 +5,7 @@
 }
 
 header{
-    font-size: 25px;
+    font-size: 50px;
     color:darkcyan;
     text-align:center;
 }
@@ -19,5 +19,5 @@ ul {
 }
 
 #hero-image{
-    background-image: ;
+   padding: 0;
 }
