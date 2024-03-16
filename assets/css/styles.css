@@ -4,22 +4,60 @@
     text-align: center;
     text-decoration: none;
     font-family: Oswald, sans-serif;
+    color: coral;
+    max-width:fit-content;
 }
 
 header{
     font-size: 50px;
-    color:darkcyan;
+    color:darkorange;
     text-align:center;
+    background-image: url("edmund-fitzgerald-1.jpg");
+}
+
+body {
+    background-color:black;
 }
 
 ul {
-    text-align: center;
+    display:inline-flex;
+    list-style-type: none;
 }
+
+li{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 0px;
+    padding-bottom: 150px;    
+}
+
+
 
 #construction {
     color:aquamarine;
 }
 
+#career {
+    padding-top: 50px;  
+}
+
+#sinking {
+
+}
+
 #hero-image{
    padding: 0;
+   align-items: center;
+}
+
+#boat-launch-img{
+    padding-bottom: 50px;
+    width: 50vw;
+    height: auto;
+    float: left;
+}
+
+#container {
+    position: relative;
+    text-align: justify;
 }
