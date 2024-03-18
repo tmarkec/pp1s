@@ -5,7 +5,7 @@
     text-decoration: none;
     font-family: Oswald, sans-serif;
     color: coral;
-    max-width:fit-content;
+    max-width: 100vw;
 }
 
 header{
@@ -32,18 +32,47 @@ li{
 }
 
 
-
-#construction {
+#career-heading{
     font-size: 40px;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
-#career {
-    padding-top: 50px;  
+#career-section {
+    font-size: 25px;
+    color:aliceblue;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
-#sinking {
-  color:aliceblue
+#sinking-heading{
+    font-size: 40px;
+    padding-left: 150px;
+    padding-right: 50px;
 }
+
+#sinking-section {
+    padding-top: 50px;
+    font-size: 25px;  
+    color:aliceblue;
+    padding: 150px;
+    padding-right: 150px;
+}
+
+#search-heading{
+    font-size: 40px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+#search-section {
+  font-size: 25px;
+  padding-top: 50px;
+  color:aliceblue;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
 
 #hero-image{
    padding: 0;
@@ -60,4 +89,13 @@ li{
 #container {
     position: relative;
     text-align: justify;
+}
+
+#video-playback {
+    height: 50vh;
+    width: 50vw;
+}
+
+#video-header {
+    color:crimson
 }
